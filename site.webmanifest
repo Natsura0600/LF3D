@@ -1,0 +1,9 @@
+{
+  "name": "LF3D — Impresión 3D",
+  "short_name": "LF3D",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#061229",
+  "theme_color": "#061229",
+  "icons": [{ "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }]
+}

@@ -1,0 +1,2 @@
+Guardá acá las fotos reales de tus impresiones (JPG o WebP, ~1200 px de ancho)
+y escribí la ruta en portfolio.js, por ejemplo: image: "assets/portfolio/mate.jpg"
